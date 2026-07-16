@@ -2,7 +2,7 @@
 
 > An interactive Microsoft Excel dashboard developed to analyze supermarket sales performance, customer purchasing behavior, branch performance, and product trends through data-driven visualizations and business insights.
 
-![Dashboard Preview](DashboardOverview.png)
+![Dashboard Preview](Dashboard-overview.png)
 
 ---
 
